@@ -74,7 +74,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 # html_theme_options = {
 #     "path_to_docs": "docsrc",
-#     "repository_branch": "main",
+#     "repository_branch": "master",
 #     "repository_url": "https://github.com/SDU-eScience/Project5",
 #     "use_repository_button": True,
 #     "use_issues_button": True,
