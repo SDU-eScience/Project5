@@ -1,11 +1,10 @@
-Project proposal
-================
+Workshop Output
+===============
 
+Addendum to Project Description
+-------------------------------
 
-
-:pdfembed:`src:../_static/DeiC_April_2020.pdf#view=fit, height:910, width:810, align:middle`
-
-
+:pdfembed:`src:../_static/Addendum_Project_Description.pdf#view=fit, height:910, width:810, align:middle`
 
 
 
@@ -21,5 +20,4 @@ Project proposal
         label="💬 comment"
         crossorigin="anonymous"
     />
-
 

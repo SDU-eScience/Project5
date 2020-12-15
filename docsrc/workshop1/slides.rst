@@ -1,18 +1,19 @@
-Slides
-======
+Workshop Slides
+===============
 
 
-UCloud presentation
+UCloud Presentation
 -------------------
 
 
-:pdfembed:`src:../_static/UCloud-presentation.pdf#view=fit, height:460, width:810, align:middle`
+:pdfembed:`src:../_static/UCloud-presentation.pdf#view=fit, height:440, width:780, align:middle`
 
 
-Goals and requirements
+Goals and Requirements
 ----------------------
 
-:pdfembed:`src:../_static/Project5-UCloud.pdf#view=fit, height:460, width:810, align:middle`
+
+:pdfembed:`src:../_static/Project5-UCloud.pdf#view=fit, height:440, width:780, align:middle`
 
 
 .. raw:: html

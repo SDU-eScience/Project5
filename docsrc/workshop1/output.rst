@@ -1,5 +1,8 @@
+Workshop Output
+===============
+
 Summary Table
-=============
+-------------
 
 .. raw:: html
     
@@ -7,11 +10,12 @@ Summary Table
         table.docutils td p {
          font-size: 0.85em !important;
         }
+        /*table.docutils tr:nth-child(1) {color: white;}*/
     </style>
 
 
 .. table::
-    :align: left
+    :align: center
 
     +-------------------+------------+-------------+--------------------------+--------------------------+--------------------------+-------------------------+-------------+
     |                   |        DeiC Type 1       |                            DeiC Type 2                                         | Deic Type 3             | DeiC Type 4 |
@@ -28,6 +32,13 @@ Summary Table
     +-------------------+------------+-------------+--------------------------+--------------------------+--------------------------+-------------------------+-------------+
 
 
+FAQs
+----
+
+:pdfembed:`src:../_static/Project5-FAQ.pdf#view=fit, height:440, width:780, align:middle`
+
+
+
 .. raw:: html
 
     <script
@@ -40,3 +51,4 @@ Summary Table
         label="💬 comment"
         crossorigin="anonymous"
     />
+

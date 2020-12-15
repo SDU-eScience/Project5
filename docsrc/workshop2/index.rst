@@ -17,13 +17,12 @@ Agenda
 - 13:30 - 13:45 WP3: Integration with national data services and resources
 - 13:45 - 14:00 Summary and conclusions
 
+Contents
+--------
 
 .. toctree::
    :maxdepth: 1
-   :caption: Contents:
-   :hidden:
 
    Attendants <list>
-   Summary Table <summary_workshop1>
-   Project Proposal <project_proposal>
    Slides <slides>
+   Output <output>

@@ -19,10 +19,10 @@ Agenda
 - 10:15 - 10:45 Discussions
 - 10:45 - 11:00 Conclusions and next steps
 
+Contents
+--------
+
 .. toctree::
    :maxdepth: 1
-   :caption: Contents:
-   :hidden:
 
    Attendants <list>
-   Addendum <addendum>

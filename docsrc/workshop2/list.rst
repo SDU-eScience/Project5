@@ -1,9 +1,6 @@
 List of Workshop Attendants
 ===========================
 
-
-
-
 1.	**Prof. Claudio Pica**
 
 	Director of the SDU eScience Center
@@ -137,19 +134,5 @@ List of Workshop Attendants
 	System Administrator, AU
 
 	ncwh@phys.au.dk
-
-
-.. raw:: html
-
-    <script
-        type="text/javascript"
-        src="https://utteranc.es/client.js"
-        async="async"
-        repo="emolinaro/deic-project5"
-        issue-term="pathname"
-        theme="github-light"
-        label="💬 comment"
-        crossorigin="anonymous"
-    />
 
 

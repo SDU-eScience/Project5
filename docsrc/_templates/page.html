@@ -99,13 +99,6 @@
               Last updated on {{ last_updated }}.
             {%- endtrans %}
           {%- endif %}
-          {%- if show_source and has_source and sourcename %}
-            |
-            <a class="muted-link" href="{{ pathto('_sources/' + sourcename, true)|e }}"
-               rel="nofollow">
-              {{ _('Show Source') }}
-            </a>
-          {%- endif %}
         </div>
         {% endblock footer %}
       </footer>

@@ -1,17 +1,11 @@
-Slides
-======
-
-FAQs
-----
-
-:pdfembed:`src:../_static/Project5-FAQ.pdf#view=fit, height:460, width:810, align:middle`
+Workshop Slides
+===============
 
 
-
-Project scoping
+Project Scoping
 ---------------
 
-:pdfembed:`src:../_static/Project5-WP2.pdf#view=fit, height:460, width:810, align:middle`
+:pdfembed:`src:../_static/Project5-WP2.pdf#view=fit, height:440, width:780, align:middle`
 
 
 

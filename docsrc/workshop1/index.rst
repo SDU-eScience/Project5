@@ -19,9 +19,13 @@ Agenda
 - 13:30 – 13:50 Collection of requirements from national
 - 13:50 – 14:00 Final words and other workshops
 
+
+Contents
+--------
+
 .. toctree::
    :maxdepth: 1
-   :hidden:
 
    Attendants <list>
    Slides <slides>
+   Output <output>

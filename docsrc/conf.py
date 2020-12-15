@@ -19,8 +19,8 @@
 
 copyright = '2020, SDU eScience'
 author = 'DeiC Project 5 Collaboration'
-html_title = "Project 5"
-html_logo = "_static/deic_logo.png"
+html_title = "Deic Project 5"
+# html_logo = ""
 # html_favicon = "path/to/favicon.ico"
 
 
@@ -86,22 +86,38 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 html_theme = 'furo'
 
+color1 = "#006aff"
+color2 = "#FF9812"
+
 html_theme_options = {
     "light_css_variables": {
-        "color-brand-primary": "#1d73c9",
-        "color-brand-content": "#1d73c9",
+        "color-sidebar-background": color1,
+        "color-sidebar-brand-text": "white",
+        "color-sidebar-caption-text": color2,
+        "color-sidebar-item-background--current": "white",
+        "color-sidebar-link-text": "white",
+        "color-sidebar-link-text--top-level": "white",
+        "color-sidebar-background-border": "black",
+        "color-sidebar-item-background--current": color1,
+        "color-sidebar-item-background--hover": color2,
+        "color-sidebar-search-background": "white",
+        "color-sidebar-item-expander-background--hover": color1,
+        "color-toc-item-text--active": color1,
+        "color-brand-content": "white",
+        "color-link": color1,
+        "color-link--hover": color2,
+        "color-link-underline": color1,
+        "color-link-underline--hover": color2,
         "font-stack": "Arial, sans-serif",
         "font-stack--monospace": "Courier, monospace",
-    },
-    "dark_css_variables": {
-        "color-brand-primary": "#1d73c9",
-        "color-brand-content": "#1d73c9",
-        "font-stack": "Arial, sans-serif",
-        "font-stack--monospace": "Courier, monospace",
+        "color-foreground-secondary": color1,
+        "color-foreground-muted": color2, # contents
+        "color-background-secondary": color1,
+        "color-background-border": "black",
+        "color-foreground-border": "black"
     },
     "sidebar_hide_name": False,
     "navigation_with_keys": True,
-
 }
 
 myst_admonition_enable = True
