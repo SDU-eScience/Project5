@@ -6,13 +6,13 @@ UCloud presentation
 -------------------
 
 
-:pdfembed:`src:../_static/UCloud-presentation.pdf#view=fit, height:480, width:810, align:middle`
+:pdfembed:`src:../_static/UCloud-presentation.pdf#view=fit, height:460, width:810, align:middle`
 
 
-Definition of goals and requirements
-------------------------------------
+Goals and requirements
+----------------------
 
-:pdfembed:`src:../_static/Project5-UCloud.pdf#view=fit, height:480, width:810, align:middle`
+:pdfembed:`src:../_static/Project5-UCloud.pdf#view=fit, height:460, width:810, align:middle`
 
 
 .. raw:: html
