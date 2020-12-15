@@ -22,7 +22,7 @@ Goals and Requirements
         type="text/javascript"
         src="https://utteranc.es/client.js"
         async="async"
-        repo="emolinaro/deic-project5"
+        repo="SDU-eScience/Project5"
         issue-term="pathname"
         theme="github-light"
         label="💬 comment"
