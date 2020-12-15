@@ -30,23 +30,23 @@ DeiC National HPC Systems
 .. table::
     :align: center
 
-    +----------+-----------------+
-    | DeiC HPC | Hosting Site    |
-    +==========+=================+
-    |          | AAU - CLAUDIA   |
-    + Type 1   +-----------------+
-    |          | SDU eScience    |
-    +----------+-----------------+
-    |          | GenomeDK        |
-    +          +-----------------+
-    | Type 2   | Computerome 2   |
-    +          +-----------------+
-    |          | Sophia          |
-    +----------+-----------------+
-    | Type 3   | SDU eScience    |
-    +----------+-----------------+
-    | Type 4   | KU              |
-    +----------+-----------------+
+    +----------+------------------+
+    | DeiC HPC | Hosting Site     |
+    +==========+==================+
+    |          | AAU - CLAAUDIA   |
+    + Type 1   +------------------+
+    |          | SDU eScience     |
+    +----------+------------------+
+    |          | GenomeDK         |
+    +          +------------------+
+    | Type 2   | Computerome 2    |
+    +          +------------------+
+    |          | Sophia           |
+    +----------+------------------+
+    | Type 3   | SDU eScience     |
+    +----------+------------------+
+    | Type 4   | KU               |
+    +----------+------------------+
 
 
 References
@@ -84,6 +84,7 @@ https://escience.sdu.dk/index.php/ucloud/
     
 ..     * -
 ..       -
+..       -
 
 ..     * - .. figure:: _static/logo/AU_logo.png
 ..            :scale: 50%
@@ -91,10 +92,8 @@ https://escience.sdu.dk/index.php/ucloud/
 ..       - .. figure:: _static/logo/DTU_logo.png
 ..            :scale: 4%
 ..            :align: center 
-..     * - .. figure:: _static/logo/AAU_logo.png
-..            :scale: 50%
-..            :align: left
 ..       - .. figure:: _static/logo/SDU_logo.png
-..            :scale: 18%
-..            :align: center
+..            :scale: 40%
+..            :align: left
+
 
