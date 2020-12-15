@@ -1,0 +1,20 @@
+Workshop 2
+==========
+
+`Slides workshop 2 <_static/Project5-WP2.pdf>`__.
+
+**TODO:** add summary workshop 2
+
+.. raw:: html
+
+    <script
+        type="text/javascript"
+        src="https://utteranc.es/client.js"
+        async="async"
+        repo="emolinaro/deic-project5"
+        issue-term="pathname"
+        theme="github-light"
+        label="💬 comment"
+        crossorigin="anonymous"
+    />
+

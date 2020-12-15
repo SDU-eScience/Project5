@@ -1,0 +1,29 @@
+Slides
+======
+
+FAQs
+----
+
+:pdfembed:`src:../_static/Project5-FAQ.pdf#view=fit, height:480, width:810, align:middle`
+
+
+
+Project scoping
+---------------
+
+:pdfembed:`src:../_static/Project5-WP2.pdf#view=fit, height:480, width:810, align:middle`
+
+
+
+.. raw:: html
+
+    <script
+        type="text/javascript"
+        src="https://utteranc.es/client.js"
+        async="async"
+        repo="emolinaro/deic-project5"
+        issue-term="pathname"
+        theme="github-light"
+        label="💬 comment"
+        crossorigin="anonymous"
+    />
