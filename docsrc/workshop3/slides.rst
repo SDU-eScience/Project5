@@ -1,9 +1,11 @@
 Workshop Slides
 ===============
 
-.. todo::
-	Add workshop slides.
 
+Work Packages and Roadmap
+-------------------------
+
+:pdfembed:`src:../_static/Project5-WP3.pdf#view=fit, height:440, width:780, align:middle`
 
 
 .. raw:: html
