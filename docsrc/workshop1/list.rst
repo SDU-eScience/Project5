@@ -1,31 +1,30 @@
 List of Workshop Attendants
 ===========================
 
-
 AAU
 ---
 
 1. **Rasmus D. Jensen**
     
-   Partner for Digital Transformation, AAU
+   Partner for Digital Transformation
     
    rj@its.aau.dk
 
 2. **Bo Bai**
 
-   Senior Consultant, AAU
+   Senior Consultant
 
    bai@its.aau.dk
 
 3. **Frederik Højlund**
 
-   Web Developer, AAU
+   Web Developer
 
    frho@its.aau.dk
 
 4. **Anton Drastrup-Fjorbak**
 
-   System Administrator, AAU
+   System Administrator
 
    adf@its.aau.dk
 
@@ -37,7 +36,7 @@ AU
 
    Institut for Kultur og Samfund 
 
-   Interacting Minds Centre, AU
+   Interacting Minds Centre
 
    kln@cas.au.dk
 
@@ -55,7 +54,7 @@ DTU
    
     Section Leader (FIT) 
 
-    IT-services, DTU
+    IT-services
 
     micr@dtu.dk
 
@@ -63,31 +62,31 @@ DTU
 
     Postdoc
 
-    Department of Physics, DTU
+    Department of Physics
 
     mattwi@fysik.dtu.dk
 
 9.  **Martin Haubjerg Rosgaard**
 
-    IT-Service, DTU
+    IT-Service
 
     mhros@dtu.dk
 
 10. **Nikola Vasiljevic**
 
-    Special Consultant for Digitalization, DTU
+    Special Consultant for Digitalization
 
     niva@dtu.dk
 
 11. **Erland Hochheim**
 
-    AIT-Computerome, DTU
+    AIT-Computerome
 
     erhh@dtu.dk
 
 12. **Eske Hjalmer Bergishagen Christiansen**
 
-    DeiC, DTU
+    DeiC
 
     eskec@dtu.dk
 
@@ -99,7 +98,7 @@ SDU
 
     Director of the SDU eScience Center
 
-    CEO DeiC National HPC Center, SDU
+    CEO DeiC National HPC Center
 
     pica@cp3.sdu.dk
 

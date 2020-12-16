@@ -6,25 +6,25 @@ AAU
 
 1.  **Rasmus D. Jensen**
 
-    Partner for Digital Transformation, AAU
+    Partner for Digital Transformation
 
     rj@its.aau.dk
 
 2.  **Bo Bai**
 
-    Senior Consultant, AAU
+    Senior Consultant
 
     bai@its.aau.dk
 
 3.  **Frederik Højlund**
 
-    Web Developer, AAU
+    Web Developer
 
     frho@its.aau.dk
 
 4.  **Anton Drastrup-Fjorbak**
 
-    System Administrator, AAU
+    System Administrator
 
     adf@its.aau.dk
 
@@ -35,7 +35,7 @@ AU
     
     Institut for Kultur og Samfund
 
-    Interacting Minds Centre, AU
+    Interacting Minds Centre
 
     kln@cas.au.dk
 
@@ -47,19 +47,19 @@ AU
 
 7.  **Samuele Soraggi**
 
-    Department of Chemistry, AU
+    Department of Chemistry
 
     samuele@chem.au.dk
 
 8.  **Anders Egerup Halager**
 
-    Software engineer, AU
+    Software engineer
 
     aeh@birc.au.dk
 
 9.  **Niels Carl Hansen**
 
-    System Administrator, AU
+    System Administrator
 
     ncwh@phys.au.dk
 
@@ -70,25 +70,25 @@ DTU
 
     Section leader (FIT)
 
-    IT-services, DTU
+    IT-services
 
     micr@dtu.dk
 
 11. **Martin Haubjerg Rosgaard**
 
-    IT-Service, DTU
+    IT-Service
 
     mhros@dtu.dk
 
 12. **Ole Holm Nielsen**
 
-    Senior HPC Officer, DTU
+    Senior HPC Officer
 
     ole.h.nielsen@fysik.dtu.dk
 
 13. **Lars Melwyn Jensen Fjelsted**
 
-    Special Consultant, DTU
+    Special Consultant
 
     melwyn@dtu.dk
 
@@ -98,13 +98,13 @@ KU
 
 14. **Hans Henrik Happe**
 
-    System Administrator, KU
+    System Administrator
 
     happe@science.ku.dk
 
 15. **Jonas Bardino**
 
-    Software Developer, KU
+    Software Developer
 
     bardino@science.ku.dk
 
@@ -116,7 +116,7 @@ SDU
 
     Director of the SDU eScience Center
 
-    CEO DeiC National HPC center, SDU
+    CEO DeiC National HPC center
 
     pica@cp3.sdu.dk
 
