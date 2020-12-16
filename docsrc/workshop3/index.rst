@@ -6,7 +6,13 @@ Workshop 3
 Objective
 ---------
 
-Review of work packages and project roadmap.
+Review of work packages and project roadmap
+
+
+Date
+----
+
+17 December 2020
 
 
 Agenda

@@ -6,7 +6,12 @@ Workshop 1
 Objective
 ---------
 
-Definition of goals and requirements.
+Definition of goals and requirements
+
+Date
+----
+
+3 December 2020
 
 Agenda
 ------

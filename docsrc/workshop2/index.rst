@@ -6,7 +6,12 @@ Workshop 2
 Objective
 ---------
 
-Project scoping: definition of work packages and roadmap.
+Project scoping: definition of work packages and roadmap
+
+Date
+----
+
+10 December 2020
 
 Agenda
 ------
