@@ -26,3 +26,5 @@ Contents
    :maxdepth: 1
 
    Attendants <list>
+   Slides <slides>
+   Output <output>

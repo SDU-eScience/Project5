@@ -6,7 +6,7 @@ Workshop 2
 Objective
 ---------
 
-Project scoping: definition of work packages and roadmap
+Project scoping: definition of work packages and roadmap.
 
 Agenda
 ------
