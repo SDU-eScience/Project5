@@ -68,7 +68,7 @@ https://escience.sdu.dk/index.php/ucloud/
 
 .. toctree::
    :maxdepth: 1
-   :caption: Table of Contents
+   :caption: Contents
    :hidden:
 
    workshop1/index

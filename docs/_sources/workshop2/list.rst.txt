@@ -1,6 +1,9 @@
 List of Workshop Attendants
 ===========================
 
+SDU
+---
+
 1.	**Prof. Claudio Pica**
 
 	Director of the SDU eScience Center
@@ -9,23 +12,7 @@ List of Workshop Attendants
 
 	pica@cp3.sdu.dk
 
-2.	**Ass. Prof. Kristoffer Nielbo**
-	
-	Institut for Kultur og Samfund
-
-	Interacting Minds Centre, AU
-
-	kln@cas.au.dk
-
-3.	**Michael Rasmussen**
-
-	Section leader (FIT)
-
-	IT-services, DTU
-
-	micr@dtu.dk
-
-4.	**Dan Sebastian Thrane**
+2.	**Dan Sebastian Thrane**
 
 	Software Developer
 
@@ -33,25 +20,7 @@ List of Workshop Attendants
 
 	dthrane@imada.sdu.dk
 
-5.	**Bo Bai**
-
-	Senior Consultant, AAU
-
-	bai@its.aau.dk
-
-6.	**Frederik Højlund**
-
-	Web Developer, AAU
-
-	frho@its.aau.dk
-
-7.	**Anton Drastrup-Fjorbak**
-
-	System Administrator, AAU
-
-	adf@its.aau.dk
-
-8.	**Emiliano Molinaro**
+3.	**Emiliano Molinaro**
 
 	Software Developer 
 
@@ -59,19 +28,7 @@ List of Workshop Attendants
 
 	molinaro@imada.sdu.dk
 
-9.	**Rasmus D. Jensen**
-
-	Partner for Digital Transformation, AAU
-
-	rj@its.aau.dk
-
-10.	**Martin Haubjerg Rosgaard**
-
-	IT-Service, DTU
-
-	mhros@dtu.dk
-
-11.	**Martin Rasmus Lundquist Hansen**
+4.	**Martin Rasmus Lundquist Hansen**
 
 	Software Developer
 
@@ -79,7 +36,7 @@ List of Workshop Attendants
 
 	hansen@imada.sdu.dk
  
-12.	**Johanne Lyhne Hansen**
+5.	**Johanne Lyhne Hansen**
 
 	Secretary
 
@@ -87,52 +44,110 @@ List of Workshop Attendants
 
 	jlyh@imada.sdu.dk
 
-13.	**Per Møldrup-Dalum**
+AU
+---
+
+6.	**Ass. Prof. Kristoffer Nielbo**
+	
+	Institut for Kultur og Samfund
+
+	Interacting Minds Centre, AU
+
+	kln@cas.au.dk
+
+7.	**Per Møldrup-Dalum**
 
 	AU Library – Royal Danish Library
 
 	pmd@kb.dk
 
-14.	**Ole Holm Nielsen**
-
-	Senior HPC Officer, DTU
-
-	ole.h.nielsen@fysik.dtu.dk
- 
-15.	**Samuele Soraggi**
+8.	**Samuele Soraggi**
 
 	Department of Chemistry, AU
 
 	samuele@chem.au.dk
 
-16.	**Hans Henrik Happe**
-
-	System Administrator, KU
-
-	happe@science.ku.dk
-
-17.	**Lars Melwyn Jensen Fjelsted**
-
-	Special Consultant, DTU
-
-	melwyn@dtu.dk
-
-18.	**Anders Egerup Halager**
+9.	**Anders Egerup Halager**
 
 	Software engineer, AU
 
 	aeh@birc.au.dk
 
-19.	**Jonas Bardino**
-
-	Software Developer, KU
-
-	bardino@science.ku.dk
-
-20.	**Niels Carl Hansen**
+10.	**Niels Carl Hansen**
 
 	System Administrator, AU
 
 	ncwh@phys.au.dk
 
+
+DTU
+---
+
+11.	**Michael Rasmussen**
+
+	Section leader (FIT)
+
+	IT-services, DTU
+
+	micr@dtu.dk
+
+12.	**Martin Haubjerg Rosgaard**
+
+	IT-Service, DTU
+
+	mhros@dtu.dk
+
+13.	**Ole Holm Nielsen**
+
+	Senior HPC Officer, DTU
+
+	ole.h.nielsen@fysik.dtu.dk
+
+14.	**Lars Melwyn Jensen Fjelsted**
+
+	Special Consultant, DTU
+
+	melwyn@dtu.dk
+
+AAU
+---
+
+15.	**Bo Bai**
+
+	Senior Consultant, AAU
+
+	bai@its.aau.dk
+
+16.	**Frederik Højlund**
+
+	Web Developer, AAU
+
+	frho@its.aau.dk
+
+17.	**Anton Drastrup-Fjorbak**
+
+	System Administrator, AAU
+
+	adf@its.aau.dk
+
+18.	**Rasmus D. Jensen**
+
+	Partner for Digital Transformation, AAU
+
+	rj@its.aau.dk
+
+KU
+---
+
+19.	**Hans Henrik Happe**
+
+	System Administrator, KU
+
+	happe@science.ku.dk
+
+20.	**Jonas Bardino**
+
+	Software Developer, KU
+
+	bardino@science.ku.dk
 
