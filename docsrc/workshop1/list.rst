@@ -1,57 +1,39 @@
 List of Workshop Attendants
 ===========================
 
-SDU
+
+AAU
 ---
 
-1. **Prof. Claudio Pica**
-
-   Director of the SDU eScience Center
-
-   CEO DeiC National HPC Center, SDU
-
-   pica@cp3.sdu.dk
-
-
-2. **Dan Sebastian Thrane**
-
-   Software Developer
-
-   SDU eScience Center
+1. **Rasmus D. Jensen**
     
-   dthrane@imada.sdu.dk
-
-
-3. **Emiliano Molinaro**
-
-   Software Developer
-
-   SDU eScience Center
+   Partner for Digital Transformation, AAU
     
-   molinaro@imada.sdu.dk
+   rj@its.aau.dk
 
+2. **Bo Bai**
 
-4. **Martin Rasmus Lundquist Hansen**
+   Senior Consultant, AAU
 
-   Software Developer, SDU eScience Center
+   bai@its.aau.dk
 
-   hansen@imada.sdu.dk
+3. **Frederik Højlund**
 
- 
-5. **Johanne Lyhne Hansen**
+   Web Developer, AAU
 
-   Secretary
+   frho@its.aau.dk
 
-   SDU eScience Center
+4. **Anton Drastrup-Fjorbak**
 
-   jlyh@imada.sdu.dk
+   System Administrator, AAU
 
+   adf@its.aau.dk
 
 
 AU
 ---
 
-6. **Ass. Prof. Kristoffer Nielbo**
+5. **Kristoffer Nielbo**
 
    Institut for Kultur og Samfund 
 
@@ -59,18 +41,17 @@ AU
 
    kln@cas.au.dk
 
-7. **Per Møldrup-Dalum**
+6. **Per Møldrup-Dalum**
 
    AU Library – Royal Danish Library
 
    pmd@kb.dk
 
 
-
 DTU
 ---
 
-8.  **Michael Rasmussen**
+7.  **Michael Rasmussen**
    
     Section Leader (FIT) 
 
@@ -78,7 +59,7 @@ DTU
 
     micr@dtu.dk
 
-9.  **Matthias Wiesenberger**
+8.  **Matthias Wiesenberger**
 
     Postdoc
 
@@ -86,56 +67,75 @@ DTU
 
     mattwi@fysik.dtu.dk
 
-10. **Martin Haubjerg Rosgaard**
+9.  **Martin Haubjerg Rosgaard**
 
     IT-Service, DTU
 
     mhros@dtu.dk
 
-11. **Nikola Vasiljevic**
+10. **Nikola Vasiljevic**
 
     Special Consultant for Digitalization, DTU
 
     niva@dtu.dk
 
-12. **Erland Hochheim**
+11. **Erland Hochheim**
 
     AIT-Computerome, DTU
 
     erhh@dtu.dk
 
-13. **Eske Hjalmer Bergishagen Christiansen**
+12. **Eske Hjalmer Bergishagen Christiansen**
 
     DeiC, DTU
 
     eskec@dtu.dk
 
 
-AAU
+SDU
 ---
 
-14. **Bo Bai**
+13. **Claudio Pica**
 
-    Senior Consultant, AAU
+    Director of the SDU eScience Center
 
-    bai@its.aau.dk
+    CEO DeiC National HPC Center, SDU
 
-15. **Frederik Højlund**
+    pica@cp3.sdu.dk
 
-    Web Developer, AAU
 
-    frho@its.aau.dk
+14. **Dan Sebastian Thrane**
 
-16. **Anton Drastrup-Fjorbak**
+    Software Developer
 
-    System Administrator, AAU
-
-    adf@its.aau.dk
-
-17. **Rasmus D. Jensen**
+    SDU eScience Center
     
-    Partner for Digital Transformation, AAU
+    dthrane@imada.sdu.dk
+
+
+15. **Emiliano Molinaro**
+
+    Software Developer
+
+    SDU eScience Center
     
-    rj@its.aau.dk
+    molinaro@imada.sdu.dk
+
+
+16. **Martin Rasmus Lundquist Hansen**
+
+    Software Developer
+
+    SDU eScience Center
+
+    hansen@imada.sdu.dk
+
+17. **Johanne Lyhne Hansen**
+
+    Secretary
+
+    SDU eScience Center
+
+    jlyh@imada.sdu.dk
 
 
