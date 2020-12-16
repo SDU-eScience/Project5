@@ -59,13 +59,13 @@ AU
 
     ncwh@phys.au.dk
 
-9. Jakob Styrup Bang
+9. **Jakob Styrup Bang**
 
    AU IT-arketektur
 
    styrup@au.dk
 
-10. Dan Ariel Søndergaard
+10. **Dan Ariel Søndergaard**
 
     System Administrator
 
@@ -95,25 +95,25 @@ DTU
 
     ole.h.nielsen@fysik.dtu.dk
 
-14. René Løwe Jacobsen
+14. **René Løwe Jacobsen**
     
     HPC technician
     
     relja@dtu.dk
 
-15. Erland Hochheim
+15. **Erland Hochheim**
 
     AIT-Computerome
 
     erhh@dtu.dk
 
-16. Dario Ruben Carballido
+16. **Dario Ruben Carballido**
 
     System Administrator
 
     druca@dtu.dk
 
-17. Eske Hjalmer Bergishagen Christiansen
+17. **Eske Hjalmer Bergishagen Christiansen**
 
     DeiC
 
@@ -129,7 +129,7 @@ KU
 
     happe@science.ku.dk
 
-19. Jonas Rank Møller
+19. **Jonas Rank Møller**
 
     Group leader, KU-IT
 
