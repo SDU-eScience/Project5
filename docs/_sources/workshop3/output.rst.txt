@@ -1,9 +1,11 @@
 Workshop Output
 ===============
 
+Addendum to Project Description
+-------------------------------
 
-.. todo::
-	Add workshop summary.
+:pdfembed:`src:../_static/Addendum_National_Integration_Portal.pdf#view=fit, height:910, width:810, align:middle`
+
 
 .. raw:: html
 
